@@ -22,6 +22,6 @@ I enjoy tackling complex problems and finding efficient solutions. Whether it's 
 
 Feel free to reach out if you'd like to collaborate or if you have any questions about my work!
 
-EMAIL:- ayushdu37@gmail.com
+EMAIL:- ayushdu21@gmail.com
 
 Looking forward to connecting with you!
