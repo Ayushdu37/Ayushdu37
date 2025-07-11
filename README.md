@@ -5,9 +5,9 @@ Hi! I'm a passionate problem solver with a strong foundation in web and backend 
 ## 🛠 Skills
 
 - **Programming Languages:** Java, JavaScript, HTML, CSS
-- **Frontend Development:** React, JavaScript, HTML, CSS
-- **Backend Development:** Spring Boot, Java
-- **Database:** MongoDB
+- **Frontend Development:** React, NextJs, JavaScript, HTML, CSS 
+- **Backend Development:** Spring Boot, NodeJs
+- **Database:** MongoDB, MySQL
 - **Version Control:** Git, GitHub
 
 ## 💻 Projects
