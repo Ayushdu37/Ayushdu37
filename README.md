@@ -215,9 +215,9 @@ if(succeed == false){
 ```
 Total Time: 3 hr 42 mins
 
-Three.js    2 hr 10 min    █████████████████▒░░░░░░░  68.74 %
+SpringBoot    2 hr 10 min    █████████████████▒░░░░░░░  68.74 %
 
-3D Models   1 hr 32 mins         ███████▓░░░░░░░░░░░░░░░░░  32.26 %
+DSA   1 hr 32 mins         ███████▓░░░░░░░░░░░░░░░░░  32.26 %
 ```
 
 <div align="center">
