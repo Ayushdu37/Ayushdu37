@@ -267,11 +267,12 @@ Three.js    2 hr 10 min    █████████████████�
 
 <p align="center">
   <a href="mailto:ayushdu21@gmail.com">
-    <img src="gmail.png" alt="Gmail" height="63" hspace="15">
-  </a>
-  <a href="https://www.linkedin.com/in/ayush-dubey-655a13331/">
-    <img src="linkedin.png" alt="LinkedIn" height="70" hspace="15">
-  </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" height="40" hspace="15">
+</a>
+<a href="https://www.linkedin.com/in/ayush-dubey-655a13331/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" hspace="15">
+</a>
+
   <!-- <a href="https://discord.com/users/traviasdocker">
     <img src="discord.png" alt="Discord" height="70" hspace="15">
   </a>
