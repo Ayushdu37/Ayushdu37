@@ -273,6 +273,9 @@ Three.js    2 hr 10 min    █████████████████�
 <a href="https://www.linkedin.com/in/ayush-dubey-655a13331/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" hspace="15">
 </a>
+<a href="https://t.me/Ayushdu37">
+    <img src="[telegram.png](https://cdn-icons-png.flaticon.com/512/2111/2111646.png)" alt="Telegram" height="69" hspace="15">
+</a>
 
   <!-- <a href="https://discord.com/users/traviasdocker">
     <img src="discord.png" alt="Discord" height="70" hspace="15">
